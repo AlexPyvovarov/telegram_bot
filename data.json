@@ -1,0 +1,43 @@
+{
+    "my_playlist": [
+        {
+            "name": "Double Life",
+            "duration": "3:12",
+            "genre": "Pop Rap",
+            "author": [
+                "Pharrell Williams"
+            ],
+            "cover": "https://upload.wikimedia.org/wikipedia/en/8/80/Double-Life-Pharrell.jpg"
+        },
+        {
+            "name": "Foggy",
+            "duration": "2:29",
+            "genre": "Pop music",
+            "author": [
+                "Paco",
+                "Tommy Richman"
+            ],
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/86/77/4e/86774ef5-00ca-bf16-bf13-b4bfbde7b783/196922311253_Cover.jpg/1200x1200bb.jpg"
+        },
+        {
+            "name": "ggg",
+            "duration": "ggg",
+            "genre": "ggg",
+            "author": [
+                "ggg",
+                "ggg"
+            ],
+            "cover": "gskjgbgjkbs"
+        },
+        {
+            "name": "aggs",
+            "duration": "9:00",
+            "genre": "hip hop",
+            "author": [
+                "bngkujan",
+                "nuosg"
+            ],
+            "cover": "sg"
+        }
+    ]
+}
